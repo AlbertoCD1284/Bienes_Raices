@@ -30,7 +30,7 @@
             </div><!-- .barra -->
             
             <?php if ($inicio) { ?>
-                <h1>Venta de Casas y Departamentos Exclusivos de Luho</h1> 
+                <h1>Venta de Casas y Departamentos Exclusivos de Lujo</h1> 
             <?php } ?>
         </div>
     </header> <!--.header-->
