@@ -74,7 +74,7 @@
             $errores[] = 'La imagen es obligatoria';
         }
         // Validar por tamaño (1 mb maximo)
-        $medida = 1000 * 1000;
+        $medida = 100000 * 100000;
         if ($imagen['size'] > $medida) {
             $errores[] = 'La imagen es muy pesada';
         }
